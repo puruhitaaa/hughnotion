@@ -1,15 +1,13 @@
-# Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind
-
-### It was made together with the tutorial on Code With Antonio youtube channel.
+# Hughnotion: Next.js 13, React, Convex, Tailwind
 
 Key Features:
 
-- Real-time database  🔗 
-- Notion-style editor 📝 
+- Real-time database 🔗
+- Notion-style editor 📝
 - Light and Dark mode 🌓
 - Infinite children documents 🌲
 - Trash can & soft delete 🗑️
-- Authentication 🔐 
+- Authentication 🔐
 - File upload
 - File deletion
 - File replacement
@@ -29,7 +27,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/Suleyman1406/notion-clone-tutorial.git
+git clone https://github.com/puruhitaaa/hughnotion.git
 ```
 
 ### Install packages
@@ -39,7 +37,6 @@ npm i
 ```
 
 ### Setup .env file
-
 
 ```js
 # Deployment used by `npx convex dev`
